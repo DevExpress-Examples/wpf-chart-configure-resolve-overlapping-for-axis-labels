@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/ResolveOverlappingSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/ResolveOverlappingSample/MainWindow.xaml))**
+<!-- default file list end -->
 # How to configure resolve overlapping for axis labels
 
 
